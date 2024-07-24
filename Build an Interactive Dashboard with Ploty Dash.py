@@ -8,7 +8,7 @@
 # python3 spacex_dash_app.py
 
 # Import required libraries
-import pandas as pd
+import pandas as pd # this imports pandas library
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
